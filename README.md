@@ -1,6 +1,12 @@
 # Desafios_wordpress
 Repositório criado a fim de armazenar os desafios de WordPress da KICK
 
+LINK DO MEU SITE : http://sara-cristina.soukick.com.br/home/
+PDF : 
+
+
+
+
 Desafio 41 - Paleta de cores, fonte e print do site---------------------------------------------------------------------------
 
 Paleta:

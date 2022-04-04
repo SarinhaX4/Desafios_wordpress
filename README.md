@@ -2,9 +2,10 @@
 Repositório criado a fim de armazenar os desafios de WordPress da KICK
 
 Desafio 41 - Paleta de cores, fonte e print do site
-
 Paleta:
+
 ![cores-palets](https://user-images.githubusercontent.com/94648070/161543673-ddd0bd93-963f-45d9-b725-f0f9b4764b6e.png)
+
 Não mudei a fonte porque achei que combinou
 
 Print do site

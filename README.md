@@ -1,7 +1,7 @@
 # Desafios_wordpress
 Repositório criado a fim de armazenar os desafios de WordPress da KICK
 
-Desafio 41 - Paleta de cores, fonte e print do site
+Desafio 41 - Paleta de cores, fonte e print do site -------------------------------------------------------------------------------------------------------------------
 
 Paleta:
 
@@ -12,6 +12,11 @@ Fonte : ROBOTO
 Print do site
 ![Site-img](https://user-images.githubusercontent.com/94648070/161543411-87fdcbac-7fe3-4485-8eae-d9ec7e28844e.png)
 
+
+
+Desafio 42 - Adicionar botão de voltar - fixo ---------------------------------------------------------------------------------------------------------------------------
+
+![botao-inicio](https://user-images.githubusercontent.com/94648070/161578885-ce93b698-9952-4727-9a44-759c58a5efa5.png)
 
 
 Link do Desafio 43:

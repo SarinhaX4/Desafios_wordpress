@@ -7,7 +7,7 @@ Paleta:
 
 ![cores-palets](https://user-images.githubusercontent.com/94648070/161543673-ddd0bd93-963f-45d9-b725-f0f9b4764b6e.png)
 
-Não mudei a fonte porque achei que combinou
+Fonte : ROBOTO
 
 Print do site
 ![Site-img](https://user-images.githubusercontent.com/94648070/161543411-87fdcbac-7fe3-4485-8eae-d9ec7e28844e.png)

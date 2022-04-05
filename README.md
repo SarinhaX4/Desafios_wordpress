@@ -3,7 +3,7 @@ Repositório criado a fim de armazenar os desafios de WordPress da KICK
 
 LINK DO MEU SITE : http://sara-cristina.soukick.com.br/home/
 
-PDF : 
+PDF : [meus-site-pdf.pdf](https://github.com/SarinhaX4/Desafios_wordpress/files/8414471/meus-site-pdf.pdf)
 
 
 
